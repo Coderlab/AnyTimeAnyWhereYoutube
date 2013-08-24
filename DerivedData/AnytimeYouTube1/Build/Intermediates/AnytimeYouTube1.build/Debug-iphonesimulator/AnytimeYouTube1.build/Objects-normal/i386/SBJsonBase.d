@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonBase.m \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonBase.h
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonBase.m \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonBase.h

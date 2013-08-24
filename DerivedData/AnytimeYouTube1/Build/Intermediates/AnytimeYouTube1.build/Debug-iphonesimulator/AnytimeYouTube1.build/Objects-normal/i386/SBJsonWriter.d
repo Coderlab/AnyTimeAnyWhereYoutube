@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonWriter.m \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonWriter.h \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonBase.h
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonWriter.m \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonWriter.h \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonBase.h

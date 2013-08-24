@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonParser.m \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonParser.h \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/SBJson/SBJsonBase.h
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonParser.m \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonParser.h \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/SBJson/SBJsonBase.h

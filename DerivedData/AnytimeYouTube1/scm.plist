@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>FoundWorkingCopyPaths</key>
-	<array/>
+	<array>
+		<string>/Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube</string>
+	</array>
 	<key>LastWorkingCopyScanDate</key>
-	<date>2013-07-28T06:26:23Z</date>
+	<date>2013-08-12T01:38:23Z</date>
 	<key>MissingFilePaths</key>
 	<array/>
 	<key>Version</key>

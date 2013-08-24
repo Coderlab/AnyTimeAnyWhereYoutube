@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/AnytimeYouTube1/main.m \
-  /Users/newsuzukihiromasa/Desktop/cocos2dx/AnytimeYouTube1/AnytimeYouTube1/AnytimeYouTube1AppDelegate.h
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/AnytimeYouTube1/main.m \
+  /Users/newsuzukihiromasa/git/ios/AnyTimeAnyWhereYoutube/AnytimeYouTube1/AnytimeYouTube1AppDelegate.h
